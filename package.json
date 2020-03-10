@@ -1,0 +1,14 @@
+{
+  "name": "awsome-bot",
+  "version": "1.0.0",
+  "description": "Awesome bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Ryu Jaesang",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.3"
+  }
+}
