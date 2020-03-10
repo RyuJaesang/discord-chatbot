@@ -15,5 +15,8 @@ bot.on('message', function(user, userID, channelID, message, event) {
       to: channelID,
       message: "pong"
     });
+    console.log("it's test branch");
   }
 });
+
+//ㄴㅇㄹㅁ럼대러매ㅑ러먀ㅐ러먀ㅐ더랴맫
